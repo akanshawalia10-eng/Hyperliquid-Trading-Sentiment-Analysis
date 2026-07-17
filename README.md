@@ -10,8 +10,13 @@ This project explores the relationship between Bitcoin market sentiment and Hype
 - Matplotlib
 - Jupyter Notebook
 
-## Repository Structure
+## How to Run
+1. Clone the repository.
+2. Install the required Python libraries.
+3. Open `analysis.ipynb` using Jupyter Notebook or VS Code.
+4. Run all cells to reproduce the analysis and visualizations.
 
+## Repository Structure
 ```text
 Hyperliquid-Trading-Sentiment-Analysis/
 │
