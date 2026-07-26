@@ -61,8 +61,6 @@ Both datasets were cleaned, merged, and analyzed to understand how market psycho
 
 ---
 
-## 📊 Dashboard Preview
-
 ### Average Closed PnL by Market Sentiment
 
 ![Average Closed PnL](images/Average%20Closed%20PnL%20by%20Market%20Sentiment.png)
